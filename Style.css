@@ -1,0 +1,66 @@
+header{
+    text-align: center;
+    color:white;
+}
+
+body {
+    padding-top: 150px;
+    background-image: linear-gradient(rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0.75)),
+                  url("https://th.bing.com/th/id/R.07a5f3c055ecb633aa681c620a0471a9?rik=KX1ShyTyzMQ7wA&riu=http%3a%2f%2fwallpapercave.com%2fwp%2fIqkNVBU.jpg&ehk=AqbD4I2kBChl30f4hhv4ay9IVR30hvyjApSvyadPkYw%3d&risl=&pid=ImgRaw&r=0");
+    background-size:100vmax;
+    color:white;
+    text-align: center;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h1{
+    font-size: 2vw;
+}
+
+p1{
+    color: white;
+}
+
+input{
+    margin: 10px;
+    font-size: 20px;
+    width: 25vmax;
+    background-color: white;
+    color: black;
+    border: transparent;
+}
+
+.divList{
+    text-align: center;
+    background-color: transparent;
+}
+
+.divList ul{
+    margin: 5px;
+    display: table;
+    margin: 0 auto;
+}
+
+.divList ul li{
+    margin: 8px;
+    font-size: 20px;
+    text-align: justify;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.button1{
+    color:black;
+    text-size-adjust: 150px;
+    cursor: pointer;
+    font-size: 15px;
+    /* background-color: transparent; */
+}
+
+.button2{
+    margin-left: 5vmax;
+    margin-right: -4.75vmax;
+    float: right;
+    cursor: pointer;
+    font-size: 15px;
+    background-color: transparent;
+}
